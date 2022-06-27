@@ -1,5 +1,6 @@
 <h1 align="center"> Alura Books </h1>
-<a>https://paulocsf.github.io/Alura-Books/</a>
+<a href="https://alurabooks.netlify.app/" target="_blank">![image](https://user-images.githubusercontent.com/99630566/175859229-b671fbe7-d6e5-47b5-9f63-48b57a8533b2.png)
+</a>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=Projeto%20Finalizado&color=GREEN&style=for-the-badge"/>
 </p>
